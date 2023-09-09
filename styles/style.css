@@ -66,7 +66,7 @@ body{
 
 .apresentacao__links__navegacao{
     display: flex;
-    width: 50%;
+    width: 300px;
     height: 68px;
     align-items: center;
     justify-content: center;
