@@ -80,7 +80,7 @@ body{
     font-family: var(--fonte-secundario);
 }
 
-.apresentacao__links__button:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
 }
 
