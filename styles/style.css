@@ -16,12 +16,16 @@
 }
 
 body{
+    display: flex;
+    flex-direction: column;
     box-sizing: border-box;
+    min-height: 100vh;
     background-color: var(--cor-primaria);
     color: var(--cor-secundario);
 }
 
 .apresentacao{
+    flex-grow: 1;
     padding: 5% 15%;
     display: flex;
     align-items: center;
@@ -85,7 +89,11 @@ body{
 }
 
 .apresentacao_imagem{
-    width:50%
+    width:50%;
+    border-style: solid;
+    border-width: medium;
+    border-radius: 20px;
+    color: #22d4fd;
 }
 
 .rodape{
