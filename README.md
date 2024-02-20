@@ -16,7 +16,7 @@ Este projeto é um site pessoal que apresenta algumas informações sobre mim , 
 ## Como Visualizar o Portfólio
 
 - Portifolio esta publicado no site da vercel para visualizacao online atraves do link
-- Site: [Portifolio-Rafael](https://vercel.com/rafael-zancanaro/portifolio/8niX1sjagexLhgtW4KG4MfsCtWnT)
+- Site: [Portifolio-Rafael](portifolio-git-main-rafael-zancanaro.vercel.app)
  
 1. Clone este repositório em sua máquina local usando o comando:
 
